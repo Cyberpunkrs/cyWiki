@@ -10,19 +10,14 @@ Essa ramificação do projeto tem o intuíto de centralizar as informações té
 
 ### tl;dr
 
-  > *Se você tem alguma dúvida ou sugestão, abra um* [issue]()
+  > *Se você tem alguma dúvida ou sugestão, abra um* [issue](https://github.com/Cyberpunkrs/cyWiki/blob/dev/wikitags.md)
 
-  > *Se você está buscando algum material relacionado aos tópicos, visite nossa* [wiki]()
+  > *Se você está buscando algum material relacionado aos tópicos, visite nossa* [wiki](https://github.com/Cyberpunkrs/cyWiki/wiki)
 
 
 ### Issues
 
   Issues podem ser uma questão, uma lista de links sobre algum tópico ou uma sugestão para a comunidade. Sinta-se a vontade para abrir um novo issue se quiser.
-
----
-
-
-  Se você for abrir um issue, siga essas ["regras"]():
 
  ----
 
@@ -30,4 +25,6 @@ Essa ramificação do projeto tem o intuíto de centralizar as informações té
 
    A wiki é composta por material de nosso grupo e canal do telegram, os issues abertos e material mais específico que não foi postado em nenhum dos outros dois, compilado e organizado.
 
-   Apenas admins podem modificar a wiki, então sugiro que a visite: [wiki]()
+   Apenas admins podem modificar a wiki, então sugiro que a visite: [wiki](https://github.com/Cyberpunkrs/cyWiki/wiki)
+   
+   Os tópicos da wiki devem seguir esse [modelo](https://github.com/Cyberpunkrs/cyWiki/blob/dev/topicschema.md)
