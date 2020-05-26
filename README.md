@@ -27,4 +27,4 @@ Essa ramificação do projeto tem o intuíto de centralizar as informações té
 
    Apenas admins podem modificar a wiki, então sugiro que a visite: [wiki](https://github.com/Cyberpunkrs/cyWiki/wiki)
    
-   Os tópicos da wiki devem seguir esse [modelo](https://github.com/Cyberpunkrs/cyWiki/blob/dev/topicschema.md)
+   Os tópicos da wiki devem seguir esse [modelo](https://github.com/Cyberpunkrs/cyWiki/blob/dev/topic_schema.md)
