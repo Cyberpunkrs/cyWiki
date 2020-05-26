@@ -10,7 +10,7 @@ Essa ramificação do projeto tem o intuíto de centralizar as informações té
 
 ### tl;dr
 
-  > *Se você tem alguma dúvida ou sugestão, abra um* [issue](https://github.com/Cyberpunkrs/cyWiki/blob/dev/wikitags.md)
+  > *Se você tem alguma dúvida ou sugestão, abra um* [issue](https://github.com/Cyberpunkrs/cyWiki/blob/dev/wiki_tags.md)
 
   > *Se você está buscando algum material relacionado aos tópicos, visite nossa* [wiki](https://github.com/Cyberpunkrs/cyWiki/wiki)
 
