@@ -1,4 +1,4 @@
-<img src="data/cyberpunkrs.jpg" align="left" width="192px" height="192px"/>
+<img src="cyberpunkrslogo.png" align="left" width="192px" height="192px"/>
 
 # `cyWiki`
 
