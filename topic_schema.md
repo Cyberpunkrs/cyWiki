@@ -86,3 +86,16 @@ Um tópico(**tópico-pai**) na wiki é um tema, por exemplo uma Linguagem de Pro
           _Apresentação na UFABC sobre o projeto Debian._
            [Debian o que?](https://youtu.be/0I5ZX_x7AUE)
   ```
+
+* ### Casos de Uso
+   * **Onde está sendo utilizado essa tecnologia e para qual fim**
+   * Exemplo de elemento(formatação markdown):
+   ```
+      **Área de aplicação**
+          _descrever para que serve_
+           [link](link)
+           
+      **Browser Engine**
+          _Mais desempenho na requisição de arquivos web_
+          [https://servo.org/](https://servo.org/)
+    ```
